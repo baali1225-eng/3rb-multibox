@@ -1,5 +1,4 @@
-// m.js - extra features
+// m.js - extra hooks (placeholder)
 (function () {
     console.log("m.js loaded: extra features placeholder");
-    // هنا نقدر نضيف مودات و مميزات زيادة في المستقبل
 })();
